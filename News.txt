@@ -1,1 +1,6 @@
-New Launcher being developed\n05/05/2013\n\nA new game launcher is being developed to house all of Queekus Code-Work's games, the only game currently compatible is \"ThePotionGame\", which in itself is still in development.\n\n
+New Launcher being developed
+05/05/2013
+
+A new game launcher is being developed to house all of Queekus Code-Work's games, the only game currently compatible is "ThePotionGame", which in itself is still in development.
+
+
