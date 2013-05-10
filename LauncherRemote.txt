@@ -1,1 +1,2 @@
 0#The Potion Game#https://github.com/queekusme/ThePotionGame/raw/master/PotionGame.jar#ThePotionGame.jar#https://raw.github.com/queekusme/ThePotionGame/master/RemoteVersion.txt
+1#Fish-Fingers#https://github.com/queekusme/ThePotionGame/raw/master/PotionGame.jar#Fish_Fingers.jar#https://raw.github.com/queekusme/ThePotionGame/master/RemoteVersion.txt
