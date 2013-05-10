@@ -1,0 +1,1 @@
+0#The Potion Game#https://github.com/queekusme/ThePotionGame/raw/master/PotionGame.jar#ThePotionGame.jar#https://raw.github.com/queekusme/ThePotionGame/master/RemoteVersion.txt
