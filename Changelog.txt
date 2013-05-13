@@ -3,6 +3,9 @@ Key:
 - = removed feature
 * = Fix
 
+Alpha[0.0.2.6]
++ Added styling options to the launcher news box (These can change by user request so if you do not like it then make your voice heard!)
+
 Alpha[0.0.2.5]
 + All games are now stored as remote data, therefore no new launcher build will have to be downloaded when a new game is released.
 + News is now displayed as full HTML.
